@@ -4,7 +4,7 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-purple?logo=asp.net&logoColor=white) ![.NET Framework](https://img.shields.io/badge/.NET_Framework-blue?logo=dotnet&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-red?logo=microsoftsqlserver&logoColor=white)  
 ![Platform: Web](https://img.shields.io/badge/Platform-Web-blue?logo=google-chrome)  
-![Last Commit](https://img.shields.io/github/last-commit/example/webbook?logo=github&color=yellow) ![Project Size](https://img.shields.io/github/repo-size/example/webbook?logo=files) ![License](https://img.shields.io/badge/License-MIT-black?logo=open-source-initiative)  
+![Last Commit](https://img.shields.io/github/last-commit/example/webbook?logo=github&color=yellow) 
 
 ---
 
